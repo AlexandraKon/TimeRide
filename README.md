@@ -15,7 +15,7 @@
   <ol>
     <li>Clone the repository: <code>git clone [repository-url]</code></li>
     <li>Install dependencies for the server: <code>cd server &amp;&amp; npm install</code></li>
-    <li>Install dependencies for the mobile app: <code>cd mobile &amp;&amp; npm install</code></li>
+    <li>Install dependencies for the mobile app: <code>cd mobile</code></li>
     <li>Install dependencies for the web app: <code>cd web &amp;&amp; npm install</code></li>
     <li>Configure the database connections in the respective <code>.env</code> files</li>
     <li>Start the server: <code>cd server &amp;&amp; npm start</code></li>
