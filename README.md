@@ -9,6 +9,7 @@
     <li>Utilizes MERN stack (MongoDB, Express, React, and Node.js) for robust functionality</li>
     <li>MySQL database integrated for optimized functionalities</li>
     <li>Scalable architecture for future enhancements</li>
+    <li>Admin panel to manage the entire application and database</li>
   </ul>
   <h2>Getting Started <span>&#x1F680;</span></h2>
   <ol>
@@ -22,6 +23,8 @@
     <li>Start the web app: <code>cd web &amp;&amp; npm start</code></li>
     <li>Access the application in your browser at <code>http://localhost:3000</code></li>
   </ol>
+  <h2>Admin Panel <span>&#x1F9D1;&#x200D;&#x1F4BB;</span></h2>
+  <p>The TimeRide application includes an admin panel that provides complete management of the entire application and database. With the admin panel, you can perform administrative tasks such as user management, content moderation, and database management. It allows for easy administration and ensures smooth operation of the TimeRide platform.</p>
   <h2>Contributing <span>&#x1F64C;</span></h2>
   <p>We welcome contributions to TimeRide! To contribute, follow these steps:</p>
   <ol>
