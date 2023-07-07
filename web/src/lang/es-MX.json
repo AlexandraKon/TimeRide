@@ -1,0 +1,30 @@
+{
+	"nav.logout": "Salir",
+	"menu.home": "Inicio",
+	"menu.explore": "Explorar",
+	"menu.profile": "Perfil",
+	"profile.title": "Perfil",
+	"explore.title": "Explorar",
+	"search.title": "Busca ciudad",
+	"weather.feels": "Se siente como",
+	"weather.wind": "Viento",
+	"weather.humidity": "Humedad",
+
+	"contact.name": "Nombre",
+	"contact.email": "Email",
+	"contact.message": "Mensaje",
+	"contact.send": "Enviar Correo",
+
+	"mypost.title": "Titulo",
+	"mypost.text": "texto",
+	"mypost.imagen": "Imagen",
+	"mypost.route": "Ruta",
+	"mypost.publish": "Publica",
+	"mypost.seconds": "Segundos",
+	"mypost.mode": "Modalidad",
+
+	"user.change": "Cambia la foto de perfil",
+	"user.profiles": "Perfiles Sociales",
+
+	"friends.list": "Lista de Amigos"
+}

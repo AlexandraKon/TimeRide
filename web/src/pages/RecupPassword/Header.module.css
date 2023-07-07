@@ -1,0 +1,31 @@
+.root {
+  background-color: #fff;
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 30px;
+}
+
+.inner {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em !important;;
+  align-items: center;
+}
+
+.logo {
+  width: 12em !important;
+}
+
+.button {
+  background-color: #D5A350 !important;
+  margin-left: 20px !important;
+  text-decoration: none !important;;
+}
+
+.button_second {
+  background-color: #DCF9D8 !important;
+  color: #006401 !important;
+  text-decoration: none !important;;
+
+}
+

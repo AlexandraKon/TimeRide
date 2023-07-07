@@ -1,0 +1,30 @@
+{
+	"nav.logout": "Sortir",
+	"menu.home": "Home",
+	"menu.explore": "Explore",
+	"menu.profile": "Profile",
+	"profile.title": "Profile",
+	"explore.title": "Explore",
+	"search.title": "Cerca ciutat",
+	"weather.feels": "Se sent com",
+	"weather.wind": "Vent",
+	"weather.humidity": "Humitat",
+
+	"contact.name": "Nom",
+	"contact.email": "Email",
+	"contact.message": "Missatge",
+	"contact.send": "Enviar Correu",
+
+	"mypost.title": "Títol",
+	"mypost.text": "text",
+	"mypost.imagen": "Imatge",
+	"mypost.route": "Ruta",
+	"mypost.publish": "Publica",
+	"mypost.seconds": "Segons",
+	"mypost.mode": "Modalitat",
+
+	"user.change": "Canvia la imatge de perfil",
+	"user.profiles": "Perfils Socials",
+
+	"friends.list": "Llisa d'Amics"
+}

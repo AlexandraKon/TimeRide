@@ -1,0 +1,29 @@
+{
+	"nav.logout": "Log Out",
+	"menu.home": "Home",
+	"menu.explore": "Explore",
+	"menu.profile": "Profile",
+	"profile.title": "Profile",
+	"explore.title": "Explore",
+	"search.title": "Search city",
+	"weather.feels": "Feels Like",
+	"weather.wind": "Wind",
+	"weather.humidity": "Humidity",
+	"contact.name": "Name",
+	"contact.email": "Email",
+	"contact.message": "Message",
+	"contact.send": "Send Email",
+
+	"mypost.title": "Title",
+	"mypost.text": "text",
+	"mypost.imagen": "Image",
+	"mypost.route": "Route",
+	"mypost.publish": "Post",
+	"mypost.seconds": "Seconds",
+	"mypost.mode": "Mode",
+
+	"user.change": "Change Profile Picture",
+	"user.profiles": "Social Profiles",
+
+	"friends.list": "Friend List"
+}
