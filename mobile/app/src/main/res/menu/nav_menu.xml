@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_Account"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/account" />
+    <item
+        android:id="@+id/nav_Language"
+        android:icon="@drawable/ic_language"
+        android:title="@string/language" />
+    <item
+        android:id="@+id/nav_Notifications"
+        android:icon="@drawable/ic_notifications"
+        android:title="@string/notifications" />
+    <item
+        android:id="@+id/nav_weather"
+        android:icon="@drawable/ic_weather"
+        android:title="@string/weather" />
+    <item android:title="@string/Profile">
+        <menu>
+            <item
+                android:id="@+id/nav_Log_Out"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/log_out" />
+        </menu>
+    </item>
+    <item android:title="@string/Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_About"
+                android:icon="@drawable/ic_about"
+                android:title="@string/about_us" />
+            <item
+                android:id="@+id/nav_web"
+                android:icon="@drawable/ic_web"
+                android:title="@string/Website" />
+        </menu>
+
+    </item>
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925223256105",
+    "project_id": "timeride-97b93",
+    "storage_bucket": "timeride-97b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925223256105:android:34c34b72022cdd19c59c38",
+        "android_client_info": {
+          "package_name": "com.example.timeride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925223256105-rk4r1of14addgtbsugv2u5g5vcptccu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timeride",
+            "certificate_hash": "1a4180388c3ca5cb1dacf08b855c0360be7a1e02"
+          }
+        },
+        {
+          "client_id": "925223256105-9ppgdl1avjpppnkumvjq8dhk54890ovc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Uvq3_-JF6jC9QJPkJPNYrqXWfhA3fqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925223256105-9ppgdl1avjpppnkumvjq8dhk54890ovc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
