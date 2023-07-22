@@ -36,9 +36,6 @@
     <li>Push to the branch: <code>git push origin feature/your-feature</code></li>
     <li>Submit a pull request</li>
   </ol>
-  <h2>Demo web : </h2>
-  
-  https://github.com/AlexandraKon/TimeRide/assets/92441983/760c8d5b-55ee-4f4f-9615-d5676dca83e0
   <h2>License <span>&#x1F4C3;</span></h2>
   <p>TimeRide is released under the <a href="LICENSE">MIT License</a>.</p>
   <h2>Contact <span>&#x1F4E7;</span></h2>
