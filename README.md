@@ -23,6 +23,8 @@
     <li>Start the web app: <code>cd web &amp;&amp; npm start</code></li>
     <li>Access the application in your browser at <code>http://localhost:3000</code></li>
   </ol>
+  <h2>Demo Web <span>🎥</span></h2>
+    <p>Check out our demo web application <a href="https://github.com/AlexandraKon/TimeRide/assets/92441983/760c8d5b-55ee-4f4f-9615-d5676dca83e0">here</a>.</p>
   <h2>Admin Panel <span>&#x1F9D1;&#x200D;&#x1F4BB;</span></h2>
   <p>The TimeRide application includes an admin panel that provides complete management of the entire application and database. With the admin panel, you can perform administrative tasks such as user management, content moderation, and database management. It allows for easy administration and ensures smooth operation of the TimeRide platform.</p>
   <h2>Contributing <span>&#x1F64C;</span></h2>
